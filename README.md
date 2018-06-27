@@ -3,7 +3,7 @@
 Node.js gives front-end engineers the ability to wholly control the UI layer (front-end and back-end), which is something that allows us to do our jobs more effectively. We know best how to output a quality front-end experience and care very little about how the back-end goes about processing its data. 
 
 <p align="center">
-  <img src="https://github.com/rkhayyat/NodeJS-server-as-UI-server-/blob/master/snapshot/147054963-589d250ae4866_articlex.png" width="300"/>
+  <img src="https://github.com/rkhayyat/NodeJS-server-as-UI-server-/blob/master/snapshot/147054963-589d250ae4866_articlex.png" width="400"/>
 </p>
 
 Tell us how to get the data we need and how to tell the business logic what to do with the data, and we are able to craft beautiful, performant, accessible interfaces that customers will love.
